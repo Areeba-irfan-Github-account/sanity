@@ -14,7 +14,7 @@ const AboutPage = () => {
                         Our team is composed of experienced professionals who are passionate about their work.
                     </p>
                     <p className='text-lg sm:text-xl text-gray-600'>
-                        We believe in continuous improvement and always strive to exceed our clients' expectations.
+                        We believe in continuous improvement and always strive to exceed our clients expectations.
                     </p>
                 </div>
             </div>
